@@ -1,5 +1,4 @@
 #include "Tanggal.h"
-#include "boolean.h"
 Tanggal Reset()
 {
 Tanggal t;

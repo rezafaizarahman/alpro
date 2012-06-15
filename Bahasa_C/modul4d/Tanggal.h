@@ -2,9 +2,9 @@
 #define TANGGAL_H_INCLUDED
 #define true 1
 #define false 0
+#define boolean unsigned char
 #include <stdio.h>
 #include <stdlib.h>
-#include "boolean.h"
 typedef struct {
 int DD;//1-31 hari
 int MM;//1-12 bln

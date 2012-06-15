@@ -1,5 +1,4 @@
 #include "Tanggal.h"
-#include "boolean.h"
 Tanggal T,T1;
 int main()
 {
